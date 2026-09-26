@@ -104,3 +104,6 @@ CircuitSense-AI/
 │
 └── ui/
     └── dashboard.py
+## 📸 Dashboard
+
+![CircuitSense AI Dashboard](assets/dashboard.png)
